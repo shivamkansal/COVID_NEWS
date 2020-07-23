@@ -1,0 +1,65 @@
+.navLink {
+  font-family: "Baloo 2", cursive !important;
+  color: blue;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 150%;
+  padding: 20px;
+  /* font-family: "Lucida Console", Courier, monospace; */
+}
+
+.containerSymp {
+  font-size: 1.15em !important;
+  text-align: justify !important;
+}
+
+.allContainers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.eachContainer {
+  border: 3px solid #ea907a;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: 500;
+  margin-top: 5px;
+  margin-right: 2%;
+  display: inline-block;
+  width: 25%;
+  margin-bottom: 20px;
+}
+
+/* .column {
+  float: left;
+  width: 15%;
+  padding: 5px;
+} */
+
+.parentSymptoms {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.otherSymptoms {
+  border: 3px solid #ffacb7;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: 500;
+  display: inline-block;
+  width: 70%;
+}
+
+@media screen and (max-width: 768px) {
+  .eachContainer {
+    width: 100%;
+    text-align: center;
+  }
+
+  .otherSymptoms {
+    margin-right: 1%;
+    width: 95%;
+    text-align: center;
+  }
+}

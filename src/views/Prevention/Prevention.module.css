@@ -1,0 +1,51 @@
+.navLink {
+  color: blue;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 150%;
+  padding: 20px;
+  font-family: "Baloo 2", cursive !important;
+}
+
+.stepsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.containerPrev {
+  font-size: 1.15em;
+  text-align: justify;
+  font-family: "Baloo 2", cursive !important;
+}
+
+h3,
+h2 {
+  font-family: "Baloo 2", cursive !important;
+}
+
+.eachList {
+  border: 3px solid #ea907a;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: 500;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  margin-right: 1%;
+  display: inline-block;
+  width: 40%;
+  /* font-size: 1em !important; */
+}
+
+@media screen and (max-width: 768px) {
+  .eachList {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* .allLinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+} */

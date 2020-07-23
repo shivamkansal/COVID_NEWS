@@ -1,0 +1,27 @@
+.container {
+  margin: 5% 2% 5% 10%;
+  overflow-x: hidden;
+  /* height: 100vh; */
+}
+
+.cards {
+  margin: auto;
+}
+
+.newsAndMap {
+  width: 100%;
+  margin-top: 5%;
+}
+
+.tabs {
+  margin-top: 5%;
+}
+
+/* .containerInner {
+  padding: 2rem;
+  display: block;
+  height: 200px;
+} */
+
+@media screen and (max-width: 768px) {
+}

@@ -1,0 +1,433 @@
+{
+  "raceChart": [
+    {
+      "date": "2020-03-22T00:00:00+00:00",
+      "data": [
+        { "id": "Telangana", "value": "21" },
+        { "id": "Rajasthan", "value": "24" },
+        { "id": "Delhi", "value": "27" },
+        { "id": "Uttar Pradesh", "value": "28" },
+        { "id": "Kerala", "value": "52" },
+        { "id": "Maharashtra", "value": "74" }
+      ]
+    },
+    {
+      "date": "2020-03-25T00:00:00+00:00",
+      "data": [
+        { "id": "Gujarat", "value": "38" },
+        { "id": "Uttar Pradesh", "value": "38" },
+        { "id": "Telangana", "value": "39" },
+        { "id": "Karnataka", "value": "51" },
+        { "id": "Kerala", "value": "119" },
+        { "id": "Maharashtra", "value": "122" }
+      ]
+    },
+    {
+      "date": "2020-03-26T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "42" },
+        { "id": "Gujarat", "value": "43" },
+        { "id": "Telangana", "value": "44" },
+        { "id": "Karnataka", "value": "55" },
+        { "id": "Maharashtra", "value": "125" },
+        { "id": "Kerala", "value": "137" }
+      ]
+    },
+    {
+      "date": "2020-03-27T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "49" },
+        { "id": "Rajasthan", "value": "50" },
+        { "id": "Telangana", "value": "59" },
+        { "id": "Karnataka", "value": "64" },
+        { "id": "Maharashtra", "value": "156" },
+        { "id": "Kerala", "value": "176" }
+      ]
+    },
+    {
+      "date": "2020-03-28T00:00:00+00:00",
+      "data": [
+        { "id": "Gujarat", "value": "55" },
+        { "id": "Uttar Pradesh", "value": "65" },
+        { "id": "Telangana", "value": "67" },
+        { "id": "Karnataka", "value": "81" },
+        { "id": "Kerala", "value": "182" },
+        { "id": "Maharashtra", "value": "186" }
+      ]
+    },
+    {
+      "date": "2020-03-29T00:00:00+00:00",
+      "data": [
+        { "id": "Telangana", "value": "70" },
+        { "id": "Uttar Pradesh", "value": "72" },
+        { "id": "Delhi", "value": "72" },
+        { "id": "Karnataka", "value": "83" },
+        { "id": "Kerala", "value": "202" },
+        { "id": "Maharashtra", "value": "203" }
+      ]
+    },
+    {
+      "date": "2020-03-30T00:00:00+00:00",
+      "data": [
+        { "id": "Rajasthan", "value": "79" },
+        { "id": "Karnataka", "value": "91" },
+        { "id": "Uttar Pradesh", "value": "96" },
+        { "id": "Delhi", "value": "97" },
+        { "id": "Maharashtra", "value": "220" },
+        { "id": "Kerala", "value": "234" }
+      ]
+    },
+    {
+      "date": "2020-03-31T00:00:00+00:00",
+      "data": [
+        { "id": "Karnataka", "value": "101" },
+        { "id": "Uttar Pradesh", "value": "104" },
+        { "id": "Delhi", "value": "120" },
+        { "id": "Tamil Nadu", "value": "124" },
+        { "id": "Kerala", "value": "241" },
+        { "id": "Maharashtra", "value": "302" }
+      ]
+    },
+    {
+      "date": "2020-04-01T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "117" },
+        { "id": "Rajasthan", "value": "120" },
+        { "id": "Delhi", "value": "152" },
+        { "id": "Tamil Nadu", "value": "234" },
+        { "id": "Kerala", "value": "265" },
+        { "id": "Maharashtra", "value": "335" }
+      ]
+    },
+    {
+      "date": "2020-04-02T00:00:00+00:00",
+      "data": [
+        { "id": "Andhra Pradesh", "value": "149" },
+        { "id": "Telangana", "value": "154" },
+        { "id": "Kerala", "value": "286" },
+        { "id": "Delhi", "value": "293" },
+        { "id": "Tamil Nadu", "value": "309" },
+        { "id": "Maharashtra", "value": "423" }
+      ]
+    },
+    {
+      "date": "2020-04-03T00:00:00+00:00",
+      "data": [
+        { "id": "Rajasthan", "value": "179" },
+        { "id": "Telangana", "value": "229" },
+        { "id": "Kerala", "value": "295" },
+        { "id": "Delhi", "value": "386" },
+        { "id": "Tamil Nadu", "value": "411" },
+        { "id": "Maharashtra", "value": "490" }
+      ]
+    },
+    {
+      "date": "2020-04-04T00:00:00+00:00",
+      "data": [
+        { "id": "Telangana", "value": "229" },
+        { "id": "Uttar Pradesh", "value": "234" },
+        { "id": "Kerala", "value": "306" },
+        { "id": "Delhi", "value": "445" },
+        { "id": "Tamil Nadu", "value": "485" },
+        { "id": "Maharashtra", "value": "537" }
+      ]
+    },
+    {
+      "date": "2020-04-05T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "278" },
+        { "id": "Kerala", "value": "314" },
+        { "id": "Telangana", "value": "334" },
+        { "id": "Delhi", "value": "503" },
+        { "id": "Tamil Nadu", "value": "571" },
+        { "id": "Maharashtra", "value": "748" }
+      ]
+    },
+    {
+      "date": "2020-04-06T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "305" },
+        { "id": "Kerala", "value": "327" },
+        { "id": "Telangana", "value": "364" },
+        { "id": "Delhi", "value": "525" },
+        { "id": "Tamil Nadu", "value": "621" },
+        { "id": "Maharashtra", "value": "868" }
+      ]
+    },
+    {
+      "date": "2020-04-07T00:00:00+00:00",
+      "data": [
+        { "id": "Kerala", "value": "336" },
+        { "id": "Rajasthan", "value": "343" },
+        { "id": "Telangana", "value": "404" },
+        { "id": "Delhi", "value": "576" },
+        { "id": "Tamil Nadu", "value": "690" },
+        { "id": "Maharashtra", "value": "1018" }
+      ]
+    },
+    {
+      "date": "2020-04-08T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "361" },
+        { "id": "Rajasthan", "value": "383" },
+        { "id": "Telangana", "value": "453" },
+        { "id": "Delhi", "value": "669" },
+        { "id": "Tamil Nadu", "value": "738" },
+        { "id": "Maharashtra", "value": "1135" }
+      ]
+    },
+    {
+      "date": "2020-04-09T00:00:00+00:00",
+      "data": [
+        { "id": "Madhya Pradesh", "value": "411" },
+        { "id": "Rajasthan", "value": "463" },
+        { "id": "Telangana", "value": "471" },
+        { "id": "Delhi", "value": "720" },
+        { "id": "Tamil Nadu", "value": "834" },
+        { "id": "Maharashtra", "value": "1364" }
+      ]
+    },
+    {
+      "date": "2020-04-10T00:00:00+00:00",
+      "data": [
+        { "id": "Madhya Pradesh", "value": "451" },
+        { "id": "Telangana", "value": "487" },
+        { "id": "Rajasthan", "value": "561" },
+        { "id": "Delhi", "value": "903" },
+        { "id": "Tamil Nadu", "value": "911" },
+        { "id": "Maharashtra", "value": "1574" }
+      ]
+    },
+    {
+      "date": "2020-04-11T00:00:00+00:00",
+      "data": [
+        { "id": "Telangana", "value": "503" },
+        { "id": "Madhya Pradesh", "value": "529" },
+        { "id": "Rajasthan", "value": "700" },
+        { "id": "Tamil Nadu", "value": "969" },
+        { "id": "Delhi", "value": "1069" },
+        { "id": "Maharashtra", "value": "1761" }
+      ]
+    },
+    {
+      "date": "2020-04-12T00:00:00+00:00",
+      "data": [
+        { "id": "Telangana", "value": "531" },
+        { "id": "Madhya Pradesh", "value": "562" },
+        { "id": "Rajasthan", "value": "804" },
+        { "id": "Tamil Nadu", "value": "1075" },
+        { "id": "Delhi", "value": "1154" },
+        { "id": "Maharashtra", "value": "1982" }
+      ]
+    },
+    {
+      "date": "2020-04-13T00:00:00+00:00",
+      "data": [
+        { "id": "Telangana", "value": "592" },
+        { "id": "Madhya Pradesh", "value": "614" },
+        { "id": "Rajasthan", "value": "897" },
+        { "id": "Tamil Nadu", "value": "1173" },
+        { "id": "Delhi", "value": "1510" },
+        { "id": "Maharashtra", "value": "2334" }
+      ]
+    },
+    {
+      "date": "2020-04-14T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "660" },
+        { "id": "Madhya Pradesh", "value": "741" },
+        { "id": "Rajasthan", "value": "1005" },
+        { "id": "Tamil Nadu", "value": "1204" },
+        { "id": "Delhi", "value": "1561" },
+        { "id": "Maharashtra", "value": "2684" }
+      ]
+    },
+    {
+      "date": "2020-04-15T00:00:00+00:00",
+      "data": [
+        { "id": "Gujarat", "value": "871" },
+        { "id": "Madhya Pradesh", "value": "980" },
+        { "id": "Rajasthan", "value": "1101" },
+        { "id": "Tamil Nadu", "value": "1242" },
+        { "id": "Delhi", "value": "1578" },
+        { "id": "Maharashtra", "value": "2916" }
+      ]
+    },
+    {
+      "date": "2020-04-16T00:00:00+00:00",
+      "data": [
+        { "id": "Gujarat", "value": "929" },
+        { "id": "Rajasthan", "value": "1131" },
+        { "id": "Madhya Pradesh", "value": "1164" },
+        { "id": "Tamil Nadu", "value": "1267" },
+        { "id": "Delhi", "value": "1640" },
+        { "id": "Maharashtra", "value": "3202" }
+      ]
+    },
+    {
+      "date": "2020-04-17T00:00:00+00:00",
+      "data": [
+        { "id": "Gujarat", "value": "1099" },
+        { "id": "Rajasthan", "value": "1229" },
+        { "id": "Madhya Pradesh", "value": "1310" },
+        { "id": "Tamil Nadu", "value": "1323" },
+        { "id": "Delhi", "value": "1707" },
+        { "id": "Maharashtra", "value": "3320" }
+      ]
+    },
+    {
+      "date": "2020-04-18T00:00:00+00:00",
+      "data": [
+        { "id": "Rajasthan", "value": "1351" },
+        { "id": "Tamil Nadu", "value": "1372" },
+        { "id": "Gujarat", "value": "1376" },
+        { "id": "Madhya Pradesh", "value": "1402" },
+        { "id": "Delhi", "value": "1893" },
+        { "id": "Maharashtra", "value": "3648" }
+      ]
+    },
+    {
+      "date": "2020-04-19T00:00:00+00:00",
+      "data": [
+        { "id": "Madhya Pradesh", "value": "1407" },
+        { "id": "Tamil Nadu", "value": "1477" },
+        { "id": "Rajasthan", "value": "1478" },
+        { "id": "Gujarat", "value": "1743" },
+        { "id": "Delhi", "value": "2003" },
+        { "id": "Maharashtra", "value": "4200" }
+      ]
+    },
+    {
+      "date": "2020-04-20T00:00:00+00:00",
+      "data": [
+        { "id": "Madhya Pradesh", "value": "1485" },
+        { "id": "Tamil Nadu", "value": "1520" },
+        { "id": "Rajasthan", "value": "1628" },
+        { "id": "Gujarat", "value": "1939" },
+        { "id": "Delhi", "value": "2081" },
+        { "id": "Maharashtra", "value": "4666" }
+      ]
+    },
+    {
+      "date": "2020-04-21T00:00:00+00:00",
+      "data": [
+        { "id": "Madhya Pradesh", "value": "1552" },
+        { "id": "Tamil Nadu", "value": "1596" },
+        { "id": "Rajasthan", "value": "1735" },
+        { "id": "Delhi", "value": "2156" },
+        { "id": "Gujarat", "value": "2178" },
+        { "id": "Maharashtra", "value": "5218" }
+      ]
+    },
+    {
+      "date": "2020-04-22T00:00:00+00:00",
+      "data": [
+        { "id": "Madhya Pradesh", "value": "1587" },
+        { "id": "Tamil Nadu", "value": "1629" },
+        { "id": "Rajasthan", "value": "1935" },
+        { "id": "Delhi", "value": "2248" },
+        { "id": "Gujarat", "value": "2407" },
+        { "id": "Maharashtra", "value": "5649" }
+      ]
+    },
+    {
+      "date": "2020-04-23T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "1683" },
+        { "id": "Madhya Pradesh", "value": "1687" },
+        { "id": "Rajasthan", "value": "1964" },
+        { "id": "Delhi", "value": "2376" },
+        { "id": "Gujarat", "value": "2624" },
+        { "id": "Maharashtra", "value": "6427" }
+      ]
+    },
+    {
+      "date": "2020-04-24T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "1755" },
+        { "id": "Madhya Pradesh", "value": "1846" },
+        { "id": "Rajasthan", "value": "2034" },
+        { "id": "Delhi", "value": "2514" },
+        { "id": "Gujarat", "value": "2815" },
+        { "id": "Maharashtra", "value": "6817" }
+      ]
+    },
+    {
+      "date": "2020-04-25T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "1821" },
+        { "id": "Madhya Pradesh", "value": "1945" },
+        { "id": "Rajasthan", "value": "2084" },
+        { "id": "Delhi", "value": "2625" },
+        { "id": "Gujarat", "value": "3071" },
+        { "id": "Maharashtra", "value": "7628" }
+      ]
+    },
+    {
+      "date": "2020-04-26T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "1885" },
+        { "id": "Madhya Pradesh", "value": "2090" },
+        { "id": "Rajasthan", "value": "2221" },
+        { "id": "Delhi", "value": "2918" },
+        { "id": "Gujarat", "value": "3301" },
+        { "id": "Maharashtra", "value": "8068" }
+      ]
+    },
+    {
+      "date": "2020-04-27T00:00:00+00:00",
+      "data": [
+        { "id": "Uttar Pradesh", "value": "1986" },
+        { "id": "Madhya Pradesh", "value": "2165" },
+        { "id": "Rajasthan", "value": "2262" },
+        { "id": "Delhi", "value": "3108" },
+        { "id": "Gujarat", "value": "3548" },
+        { "id": "Maharashtra", "value": "8590" }
+      ]
+    },
+    {
+      "date": "2020-04-28T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "2058" },
+        { "id": "Rajasthan", "value": "2364" },
+        { "id": "Madhya Pradesh", "value": "2387" },
+        { "id": "Delhi", "value": "3314" },
+        { "id": "Gujarat", "value": "3774" },
+        { "id": "Maharashtra", "value": "9318" }
+      ]
+    },
+    {
+      "date": "2020-04-29T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "2162" },
+        { "id": "Rajasthan", "value": "2438" },
+        { "id": "Madhya Pradesh", "value": "2560" },
+        { "id": "Delhi", "value": "3439" },
+        { "id": "Gujarat", "value": "4082" },
+        { "id": "Maharashtra", "value": "9915" }
+      ]
+    },
+    {
+      "date": "2020-04-30T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "2323" },
+        { "id": "Rajasthan", "value": "2582" },
+        { "id": "Madhya Pradesh", "value": "2625" },
+        { "id": "Delhi", "value": "3515" },
+        { "id": "Gujarat", "value": "4395" },
+        { "id": "Maharashtra", "value": "10498" }
+      ]
+    },
+    {
+      "date": "2020-05-01T00:00:00+00:00",
+      "data": [
+        { "id": "Tamil Nadu", "value": "2526" },
+        { "id": "Rajasthan", "value": "2666" },
+        { "id": "Madhya Pradesh", "value": "2715" },
+        { "id": "Delhi", "value": "3738" },
+        { "id": "Gujarat", "value": "4721" },
+        { "id": "Maharashtra", "value": "11506" }
+      ]
+    }
+  ]
+}

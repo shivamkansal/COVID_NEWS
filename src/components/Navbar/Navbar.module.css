@@ -1,0 +1,35 @@
+.sidenav {
+  height: 100%;
+  width: 90px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0%;
+  background-color: #fff;
+  overflow-x: hidden;
+  padding-top: 20px;
+  box-shadow: 2px 5px 5px #b9b9b9;
+  text-align: center;
+}
+
+.flexList {
+  margin-top: 6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px;
+}
+
+.navLink {
+  text-decoration: none;
+}
+
+.iconButton {
+  font-size: 24px !important;
+  color: #0074c3 !important;
+}
+
+.activeIconButton {
+  font-size: 24px !important;
+  color: #ff4759 !important;
+}

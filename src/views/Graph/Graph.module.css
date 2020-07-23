@@ -1,0 +1,92 @@
+/* .containerWhole {
+  position: relative;
+  margin-left: 100px;
+}
+
+.containerConfirmed {
+  display: inline-block;
+  width: 50%;
+  position: absolute;
+  left: 0;
+}
+
+.containerDeaths {
+  display: inline-block;
+  width: 50%;
+  position: absolute;
+  right: 5px;
+}
+
+.containerRecovered {
+  display: inline-block;
+  width: 50%;
+  position: absolute;
+  top: 400px;
+}
+
+.containerTested {
+  display: inline-block;
+  width: 50%;
+  position: absolute;
+  top: 400px;
+  right: 5px;
+} */
+
+.containerWhole {
+  /* position: relative; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: 5%;
+}
+
+.eachContainer {
+  display: inline-block;
+  width: 40%;
+  margin-bottom: 20px;
+  /* position: absolute;
+  left: 0; 
+}
+
+/* .eachContainer {
+  display: inline-block;
+  width: 40%;
+  margin-bottom: 20px;
+  /* position: absolute;
+  right: 5px; 
+}
+
+.eachContainer {
+  display: inline-block;
+  width: 40%;
+  /* position: absolute;
+  top: 400px; 
+}
+
+.eachContainer {
+  display: inline-block;
+  width: 40%;
+  /* position: absolute;
+  top: 400px;
+  right: 5px; */
+}
+
+@media screen and (max-width: 1100px) {
+  .eachContainer {
+    width: 70%;
+  }
+
+  .containerWhole {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .eachContainer {
+    width: 100%;
+  }
+
+  .containerWhole {
+    justify-content: center;
+  }
+}

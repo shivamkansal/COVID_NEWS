@@ -1,0 +1,23 @@
+.container {
+  float: right;
+  width: 50%;
+  margin-left: -1000px;
+  margin-right: 300px;
+}
+
+svg {
+  width: 1200px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+    margin-left: -310px;
+    margin-right: 0;
+    float: none;
+  }
+
+  svg {
+    width: 250%;
+  }
+}
