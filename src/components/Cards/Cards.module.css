@@ -16,11 +16,13 @@
 
 .card {
   margin: 0 2% !important;
+  font-family: "Baloo 2", cursive !important;
   /* we use 'important' because it is a material-ui component */
 }
 
 .infected {
   border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+  font-family: "Baloo 2", cursive !important;
 }
 
 .recovered {

@@ -43,9 +43,7 @@ class Prevention extends Component {
             <h3 style={{ color: "#4f8a8b" }}>How to Protect Yourself?</h3>
             <p>
               The best way to prevent illness is to avoid being exposed to this
-              virus. As there is not vaccine to prevent so you can protect
-              yourself and help prevent spreading the virus to others if you do
-              as below instruction.
+              virus. Corona vaccines are in process of development and we expect to get them by the end of 2020
             </p>
 
             <div className={styles.stepsList}>
@@ -123,7 +121,6 @@ class Prevention extends Component {
                   flu and COVID-19.
                 </Media>
               </Media>
-              cold,flu and COVID-19.
             </div>
           </div>
         </div>

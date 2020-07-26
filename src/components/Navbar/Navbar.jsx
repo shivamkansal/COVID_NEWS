@@ -72,7 +72,7 @@ const SideNav = () => {
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="/stat">Graphs</Nav.Link>
+          <Nav.Link href="/stat">Statistics</Nav.Link>
           <Nav.Link href="/symptoms">Symptoms</Nav.Link>
           <Nav.Link href="/prevention">Prevention</Nav.Link>
         </Nav>

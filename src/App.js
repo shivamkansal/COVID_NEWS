@@ -11,7 +11,6 @@ import Prevention from "./views/Prevention/Prevention";
 import Symptoms from "./views/Symptoms/Symptoms";
 import Essentials from "./views/Essentials/Essentials";
 import Faq from "./views/Faq/Faq";
-import styles from "./App.module.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 //api
 import { fetchNews, fetchData, fetchStateWise } from "./api";

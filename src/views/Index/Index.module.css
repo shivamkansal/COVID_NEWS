@@ -1,6 +1,7 @@
 .container {
-  margin: 5% 2% 5% 10%;
+  /* margin: 5% 2% 5% 10%; */
   overflow-x: hidden;
+  font-family: "Baloo 2", cursive !important;
   /* height: 100vh; */
 }
 

@@ -3,12 +3,14 @@ import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
 
 const Footer = () => {
   return (
-    <MDBFooter color="blue" className="font-small pt-4 mt-4">
+    <MDBFooter className="font-small pt-4 mt-4">
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
           <MDBCol md="6">
-            <h5 className="title">Covid News</h5>
-            <p>
+            <h5 style={{ color: "white" }} className="title">
+              Covid News
+            </h5>
+            <p style={{ color: "grey" }}>
               • All Trending News related to COVID-19 in India. (Smart Table
               API) <br />• COVID-19 Tracker (Statistics & Map View) Using
               covid19india.org API for India. <br /> • Other Important
@@ -21,7 +23,7 @@ const Footer = () => {
                 <a href="/"> Home</a>
               </li>
               <li className="list-unstyled">
-                <a href="/stats">Graphs</a>
+                <a href="/stats">Statistics</a>
               </li>
               <li className="list-unstyled">
                 <a href="/symptoms">Symptoms</a>
